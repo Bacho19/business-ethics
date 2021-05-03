@@ -1,0 +1,22 @@
+.question__text {
+  font-size: 24px;
+}
+
+.card__label {
+  background-color: #e4e4e4;
+  padding: 7px;
+  border-radius: 7px;
+  margin-bottom: 7px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.card__label:hover {
+  background-color: #c5c5c5;
+}
+
+.card__input__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
